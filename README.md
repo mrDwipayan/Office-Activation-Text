@@ -1,3 +1,3 @@
-# Office-Activation-Text
+# Office-2019-Activation-Text
 
-First copy or download the text file and then rename .txt extenstion with .bat extension, then only need to "Run as Administrator". Thats all!
+First, copy or download the text file, rename the .txt extension to the .bat extension, and then "Run as Administrator" the bat file. That's all!
